@@ -1,0 +1,11 @@
+J:\Kódění\projekty\warehouseConsoleApp\Warehouse.Core\bin\Debug\net8.0\Warehouse.Core.deps.json
+J:\Kódění\projekty\warehouseConsoleApp\Warehouse.Core\bin\Debug\net8.0\Warehouse.Core.dll
+J:\Kódění\projekty\warehouseConsoleApp\Warehouse.Core\bin\Debug\net8.0\Warehouse.Core.pdb
+J:\Kódění\projekty\warehouseConsoleApp\Warehouse.Core\obj\Debug\net8.0\Warehouse.Core.GeneratedMSBuildEditorConfig.editorconfig
+J:\Kódění\projekty\warehouseConsoleApp\Warehouse.Core\obj\Debug\net8.0\Warehouse.Core.AssemblyInfoInputs.cache
+J:\Kódění\projekty\warehouseConsoleApp\Warehouse.Core\obj\Debug\net8.0\Warehouse.Core.AssemblyInfo.cs
+J:\Kódění\projekty\warehouseConsoleApp\Warehouse.Core\obj\Debug\net8.0\Warehouse.Core.csproj.CoreCompileInputs.cache
+J:\Kódění\projekty\warehouseConsoleApp\Warehouse.Core\obj\Debug\net8.0\Warehouse.Core.dll
+J:\Kódění\projekty\warehouseConsoleApp\Warehouse.Core\obj\Debug\net8.0\refint\Warehouse.Core.dll
+J:\Kódění\projekty\warehouseConsoleApp\Warehouse.Core\obj\Debug\net8.0\Warehouse.Core.pdb
+J:\Kódění\projekty\warehouseConsoleApp\Warehouse.Core\obj\Debug\net8.0\ref\Warehouse.Core.dll
